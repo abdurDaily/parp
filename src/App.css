@@ -2,5 +2,5 @@
 @import "tailwindcss";
 
 .container {
-  @apply w-[1200px] mx-auto;
+  @apply  mx-auto;
 }
